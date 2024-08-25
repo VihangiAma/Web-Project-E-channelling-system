@@ -1,3 +1,4 @@
 # Web-Project-E-channelling-system
 <b><h3>This is E-channelling system build with my university colleagues.I did doctor appoinment part and doctor's details part.</h3></b>
-<img src ="doctor.png" alt = "dc" width="100" height="100">
+
+![doctor](https://github.com/user-attachments/assets/b180db2d-8dbe-47ea-be07-4c400a0fa7da)
